@@ -1,0 +1,4 @@
+/download/config/*
+  Content-Disposition: attachment
+/download/backup/*
+  Content-Disposition: attachment

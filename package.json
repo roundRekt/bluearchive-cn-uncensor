@@ -1,0 +1,12 @@
+{
+  "name": "bluearchive-cn-uncensor",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "dependencies": {
+    "markdown-it": "^13.0.1",
+    "markdown-it-github-alerts": "^1.0.1"
+  }
+}

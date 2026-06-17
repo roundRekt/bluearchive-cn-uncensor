@@ -1,0 +1,12 @@
+#!name=蔚蓝档案国服反和谐
+#!desc=还原《蔚蓝档案》国服和谐内容
+#!category=蔚蓝档案
+#!author=roundRekt[https://github.com/roundRekt]
+#!homepage=https://github.com/roundRekt/bluearchive-cn-uncensor
+#!icon=https://webcnstatic.yostar.net/ba_cn_web/prod/web/favicon.png
+
+[URL Rewrite]
+^https://static(-qc|-hs)?\.bluearchive-cn\.com/prodm39/(?!(pool|Manifest)/Patch/) http://mx.jvav.net.cn/asdf/ 302
+
+[MITM]
+hostname = %APPEND% static.bluearchive-cn.com, static-qc.bluearchive-cn.com, static-hs.bluearchive-cn.com
