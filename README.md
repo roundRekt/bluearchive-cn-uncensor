@@ -122,6 +122,7 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 [![Loon](https://custom-icon-badges.demolab.com/badge/Loon-安装插件-blue.svg?logo=loon)](https://www.nsloon.com/openloon/import?plugin=https%3A%2F%2Funcensor.roundrekt.io%2Fdownload%2Fproxy%2Fbluearchive-cn-uncensor.plugin)
 [![Quantumult X](https://custom-icon-badges.demolab.com/badge/Quantumult_X-安装重写-blue.svg?logo=quantumultx)](https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%22rewrite_remote%22%3A%5B%22https%3A%2F%2Funcensor.roundrekt.io%2Fdownload%2Fproxy%2Fbluearchive-cn-uncensor.conf%2C%20tag%3Dbluearchive-cn-uncensor%22%5D%7D)
 [![Surge](https://custom-icon-badges.demolab.com/badge/Surge-安装模块-blue.svg?logo=surge)](https://httpbin.dev/redirect-to?url=surge%3A%2F%2F%2Finstall-module%3Furl%3Dhttps%253A%252F%252Funcensor.roundrekt.io%252Fdownload%252Fproxy%252Fbluearchive-cn-uncensor.sgmodule)
+[![Anywhere](https://custom-icon-badges.demolab.com/badge/Anywhere-安装规则-blue.svg?logo=anywhere)](https://httpbin.dev/redirect-to?url=anywhere%3A%2F%2Fadd-rule-set%3Flink%3Dhttps%3A%2F%2Funcensor.roundrekt.io%2Fdownload%2Fproxy%2Fbluearchive-cn-uncensor.amrs)
 
 </div>
 
